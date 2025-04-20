@@ -1,1 +1,1 @@
-2. sınıf Bahar Döneminde yaptığım Veri YApıları dersi ödevim.
+2. sınıf Bahar Döneminde yaptığım Veri Yapıları dersi ödevim. Bu ödevi hazırlarken Mucit Yazılım youtube kanalından faydalandım.
